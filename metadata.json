@@ -1,0 +1,6 @@
+{
+  "name": "Apex Auto",
+  "description": "Modern automotive car head unit launcher with offline maps, media controls, voice commands, OBD-II vehicle telemetry, and customizable dashboard widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
